@@ -1,4 +1,4 @@
-sigmet_raw.20220827012713
+sigmet_raw.20221002124300
 ==========
 
 INTRODUCTION
@@ -80,63 +80,62 @@ LICENSE:
 
 MANIFEST:
     ".configure --prefix=${PREFIX};make install" installs the below listed files.
-    20220827012713 identifies this release. It is the suffix of this directory.
+    20221002124300 identifies this release. It is the suffix of this directory.
 	${PREFIX}/bin/sigmet_raw
-	${PREFIX}/lib/sigmet_raw/20220827012713/AFL-3.0
-	${PREFIX}/lib/sigmet_raw/20220827012713/RELEASE_NOTES
-	${PREFIX}/lib/sigmet_raw/20220827012713/RELEASE_TIMESTAMP
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/bdata
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/data
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/data_types
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/difftime
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/env
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/exit
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/good
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/help
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/man
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/mk_case
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/near_sweep
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/normaltm
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/prf
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/ray_headers
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/release
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/shell
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/sigmet_raw
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/sizex
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/subcommands
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/sweep_headers
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/uniq
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/uniq.awk
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/vel_ua
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/vol_dmn
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/vol_hdr
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/vol_hdrs
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/vol_id
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/vol_in_dt
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/vol_tm
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/vol_tm.awk
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/volume_headers
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/volume_headers_desc
-	${PREFIX}/lib/sigmet_raw/20220827012713/bin/ymds_time
-	${PREFIX}/lib/sigmet_raw/20220827012713/libexec/vol_hdrs.awk
-	${PREFIX}/lib/sigmet_raw/20220827012713/libexec/vol_in_dt
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/doc/README
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/doc/volume_headers
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/bdata.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/data.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/data_types.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/difftime.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/exit.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/good.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/normaltm.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/ray_headers.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/sigmet_raw.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/sweep_headers.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/vel_ua.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/vol_dmn.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/vol_in_dt.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man1/volume_headers.1
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man3/sigmet_data.3
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man3/sigmet_raw.3
-	${PREFIX}/lib/sigmet_raw/20220827012713/share/man/man3/sigmet_vol.3
+	${PREFIX}/lib/sigmet_raw/20221002124300/AFL-3.0
+	${PREFIX}/lib/sigmet_raw/20221002124300/RELEASE_NOTES
+	${PREFIX}/lib/sigmet_raw/20221002124300/RELEASE_TIMESTAMP
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/bdata
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/data
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/data_types
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/difftime
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/env
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/exit
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/good
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/help
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/man
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/mk_case
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/near_sweep
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/normaltm
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/prf
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/ray_headers
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/release
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/shell
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/sigmet_raw
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/sizex
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/subcommands
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/sweep_headers
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/uniq
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/uniq.awk
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/vel_ua
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/vol_dmn
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/vol_hdr
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/vol_hdrs
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/vol_id
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/vol_in_dt
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/vol_tm
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/vol_tm.awk
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/volume_headers
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/volume_headers_desc
+	${PREFIX}/lib/sigmet_raw/20221002124300/bin/ymds_time
+	${PREFIX}/lib/sigmet_raw/20221002124300/libexec/vol_hdrs.awk
+	${PREFIX}/lib/sigmet_raw/20221002124300/libexec/vol_in_dt
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/doc/README
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/doc/volume_headers
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/bdata.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/data.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/data_types.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/difftime.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/exit.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/good.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/normaltm.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/ray_headers.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/sigmet_raw.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/sweep_headers.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/vel_ua.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/vol_dmn.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/vol_in_dt.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man1/volume_headers.1
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man3/sigmet_data.3
+	${PREFIX}/lib/sigmet_raw/20221002124300/share/man/man3/sigmet_vol.3
 
