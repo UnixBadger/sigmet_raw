@@ -76,7 +76,7 @@ TO BUILD AND INSTALL:
 
 LICENSE:
     The software is distributed under the terms of the Academic Free License,
-    in AFL-3.0. Please email feedback to Gordon Carrie dev1960@polarismail.net.
+    in AFL-3.0. Please email feedback to Gordon Carrie.
 
 MANIFEST:
     ".configure --prefix=${PREFIX};make install" installs the below listed files.
